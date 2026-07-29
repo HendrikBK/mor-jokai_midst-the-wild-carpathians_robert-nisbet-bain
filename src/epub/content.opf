@@ -59,6 +59,7 @@
 		<link href="https://github.com/standardebooks/mor-jokai_midst-the-wild-carpathians_robert-nisbet-bain" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Mór Jókai</dc:creator>
 		<meta property="file-as" refines="#author">Jókai, Mór</meta>
+		<meta property="schema:alternateName" refines="#author">Móricz Jókay of Ásva</meta>
 		<link href="https://en.wikipedia.org/wiki/M%C3%B3r_J%C3%B3kai" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50048802.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
