@@ -41,7 +41,7 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<meta id="collection-1" property="belongs-to-collection">Transylvanian Novels</meta>
+		<meta id="collection-1" property="belongs-to-collection">Prince Apafi Novels</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:description id="description">The newly-placed Prince of Transylvania must defend his realm against foreign influence.</dc:description>
